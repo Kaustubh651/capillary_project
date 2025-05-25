@@ -30,19 +30,7 @@ Promo Sensei scrapes promotional offers from major e-commerce sites, ingests the
      - `/promosensei refresh`  
    - Orchestrates scraper → ingestion → query pipeline
 
-## 📁 Repository Structure
-   .
-   ├── README.md
-   ├── docs/
-   │ └── screenshots/
-   │ ├── search-example.png ← place your demo screenshots here
-   │ └── summary-example.png
-   ├── master_offers.json ← combined JSON of scraped offers
-   ├── chroma_db/ ← your persistent vector store
-   ├── new_scrapper.py
-   ├── ingest_offers_chroma3.py
-   ├── rag2.py
-   └── slack.py
+
 
 
 
