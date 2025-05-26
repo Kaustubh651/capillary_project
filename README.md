@@ -80,7 +80,8 @@ See `requirements.txt` for full dependency list.
 
 ## 📸 Screenshots
 
-Find all screenshots in the `docs/screenshots/` directory.
+Find all screenshots in the `docs`
+https://docs.google.com/document/d/1Cx2yfGv_y6BQ5ohz0C4HtWHL8TaLr69d/edit?usp=drive_link&ouid=106402010391681913529&rtpof=true&sd=true
 
 ---
 
