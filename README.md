@@ -44,7 +44,7 @@ python ingest_to_vector_db.py
 python rag_query.py
 python slackbot.py
 ```
-
+To run the slackbot open this link -https://drive.google.com/file/d/1Ez9SONcHAwHGdFIn0HXfwfZwwHK1ooCN/view?usp=drive_link
 ---
 
 ## 💬 Sample Queries & Outputs
